@@ -48,4 +48,4 @@ To use the tool make sure that all the files are in the same directory and run t
 ## Cross site scripting
 ## Random input poisoning
 
-https://github.com/24ping/test2.git
+https://github.com/24ping/test2.gitgit 
