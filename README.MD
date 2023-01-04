@@ -47,5 +47,3 @@ To use the tool make sure that all the files are in the same directory and run t
 ## SQL injection
 ## Cross site scripting
 ## Random input poisoning
-
-https://github.com/24ping/test2.gitgit 
